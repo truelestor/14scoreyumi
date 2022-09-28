@@ -1,0 +1,18 @@
+{
+  "name": "14scoreyumi",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "creditscorecard.us ◄ Get Your FREE Credit Score creditscorecard.us, Check Your Credit For Free. Get My Credit Score For Free. Start Here Today",
+  "keywords": [
+    "creditscorecard.us",
+    "credit score for a personal loan",
+    "what credit score is used to buy a car",
+    "credit score and more",
+    "a credit score definition"
+  ],
+  "repository": "https://github.com/truelestor/14scoreyumi.git",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
